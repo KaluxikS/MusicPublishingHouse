@@ -1,6 +1,7 @@
 # MusicPublishingHouse
 Back-end for music publishing house. Project done in Spring. Using MySQL and Docker for database.
 # Database schema
+Base has auto incremental IDs
 ![image](https://github.com/KaluxikS/MusicPublishingHouse/assets/128908183/859af896-725d-4ff1-8663-e5abd1912d41)
 # HTTP end-points
 - /song POST - adds new song to database
